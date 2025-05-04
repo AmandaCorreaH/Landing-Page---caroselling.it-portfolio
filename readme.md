@@ -23,3 +23,4 @@ Esta landing page foi criada com o objetivo de transmitir profissionalismo, inov
 
 ## 📁 Estrutura do Projeto
 
+https://landing-page-caroselling-it-portfolio.vercel.app
